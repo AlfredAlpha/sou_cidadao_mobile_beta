@@ -1,7 +1,3 @@
-Aqui está o arquivo `README.md` adaptado especificamente para a versão Kivy do projeto "Sou Cidadão", baseado na estrutura de pastas e no código fornecido na primeira resposta. Ele inclui instruções claras sobre o propósito, instalação, execução e informações adicionais para essa implementação.
-
----
-
 # README - Sou Cidadão (Kivy)
 
 ## Descrição
