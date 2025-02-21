@@ -25,8 +25,8 @@
 ## Instalação
 1. **Clone o Repositório** (se estiver usando Git):
    ```bash
-   git clone https://github.com/seu_usuario/sou-cidadao-kivy.git
-   cd sou-cidadao-kivy
+   git clone https://github.com/AlfredAlpha/sou_cidadao_mobile_beta.git
+   cd sou_cidadao_mobile_beta.git
    ```
    Caso contrário, baixe os arquivos manualmente.
 
